@@ -16,7 +16,4 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Version checks -->
-  <string name="from_version">Verziótól</string>
-  <string name="to_version">verzióig</string>
-  <string name="new_package_version">Verzió</string>
 </resources>
